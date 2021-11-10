@@ -9,7 +9,8 @@ class App extends React.Component {
       title :'Hello from bridgelabz'
     }
   }
-  render() {
+  render() 
+  {
     return (
         <div>
           <h1>{this.state.title}</h1>
