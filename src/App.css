@@ -31,11 +31,25 @@ h1 {
 
 .error-output{
   margin-left: 10px;
-  font-size: 12px; 
+  font-size: 5px; 
   font-style:italic;
   color: red;
 }
 
+.textbox {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+  width: 15%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
 .App-link {
   color: #61dafb;
 }
